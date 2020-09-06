@@ -1,3 +1,3 @@
-# jsp-mysql-mvc-board
+# Online Bulletin Board
 
-This project implements mvc2 to depict an online bulletin board. 
+This project is a jsp-servlet web application that uses MVC2 to create an online bulletin board.
